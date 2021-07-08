@@ -1,5 +1,5 @@
 # CAT
-[CVPR](https://openaccess.thecvf.com/content/CVPR2021/html/Jin_Teachers_Do_More_Than_Teach_Compressing_Image-to-Image_Models_CVPR_2021_paper.html)|[arXiv](https://arxiv.org/abs/2103.03467)|[website](https://dejqk.github.io/GAN_CAT)
+[CVPR](https://openaccess.thecvf.com/content/CVPR2021/html/Jin_Teachers_Do_More_Than_Teach_Compressing_Image-to-Image_Models_CVPR_2021_paper.html) **|** [arXiv](https://arxiv.org/abs/2103.03467) **|** [website](https://dejqk.github.io/GAN_CAT)
 
 <p align="center">
   <img src="images/comparison.png" width=400>
